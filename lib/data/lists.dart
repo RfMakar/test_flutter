@@ -1,0 +1,81 @@
+import 'package:test_flutter/data/passenger.dart';
+import 'package:test_flutter/data/truck.dart';
+
+final passengesCars = <PassengerCar>[
+  PassengerCar(
+    'Audio',
+    200,
+    2.5,
+    'https://a.d-cd.net/5b74b3es-1920.jpg',
+    100,
+    100,
+    100,
+  ),
+  PassengerCar(
+    'Ford',
+    140,
+    3.5,
+    'https://avatars.mds.yandex.net/i?id=ace43128193cf8ae8e9bb48fac586774_l-5343286-images-thumbs&n=13',
+    100,
+    100,
+    100,
+  ),
+  PassengerCar(
+    'BMW',
+    224,
+    4.5,
+    'https://avatars.mds.yandex.net/get-autoru-vos/5993563/58c6602c2c6fa4058970da133e33c436/1200x900',
+    100,
+    100,
+    100,
+  ),
+  PassengerCar(
+    'Lada',
+    190,
+    5.5,
+    'https://www.zr.ru/d/story/2b/902443/lada-vesta.jpg',
+    100,
+    100,
+    100,
+  ),
+];
+
+final trucksCars = <TruckCar>[
+  TruckCar(
+    'Камаз',
+    200,
+    10.5,
+    'https://static.tildacdn.com/tild6633-6265-4131-a566-393039306634/2021-11-03_18-58-35.png',
+    100,
+    100,
+    100,
+  ),
+  TruckCar(
+    'Урал',
+    140,
+    12.5,
+    'https://i.pinimg.com/originals/41/3d/7a/413d7ab9b6f339ac0d4cb7132696fb61.jpg',
+    100,
+    100,
+    100,
+  ),
+  TruckCar(
+    'SCANIA',
+    224,
+    20.5,
+    'https://avatars.mds.yandex.net/i?id=6f13d7c5d6df1aee81df29eaf01c0848_l-4903175-images-thumbs&n=13',
+    100,
+    100,
+    100,
+  ),
+  TruckCar(
+    'KRAZ',
+    190,
+    2.5,
+    'https://a.d-cd.net/f75673cs-960.jpg',
+    100,
+    100,
+    100,
+  ),
+];
+
